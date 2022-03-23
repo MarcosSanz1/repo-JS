@@ -98,3 +98,4 @@ let calcular= square(2);
 console.log("area del cuadrado " + calcular);
 // O simplemente sacar el resultado por consola
 console.log("area del cuadrado " + square(2));
+// COMENTARIO 
